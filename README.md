@@ -1,2 +1,2 @@
-# Deep learning architecture for Kidney Microscopy image grading
-My projects which i did in my college time.
+# Kidney Microscopy image grading
+A deep learning architecture using SE_resnet14 algorithm. 
