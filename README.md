@@ -7,3 +7,12 @@ Features
 - hybrid deep learning model for high accuracy.
 - Web interface for image upload and grading.
 - Supports multiple grading systems for various kidney diseases.
+
+## Results
+![Kidney Microscopy Grading](acc2.jpg)
+
+## Future Scope or Planned Features:
+
+- Support for additional grading scales.
+- Improved accuracy with a larger dataset.
+- Mobile-friendly interface for remote use.
