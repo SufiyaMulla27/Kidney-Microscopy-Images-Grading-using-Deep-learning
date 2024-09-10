@@ -14,6 +14,10 @@ This project implements a deep learning model to automatically grade kidney micr
 ## Results
 ![Kidney Microscopy Grading](acc2.jpg)
 
+## basic UI usage 
+![Kidney Microscopy Grading](UI1.jpeg)
+![Kidney Microscopy Grading](UI2.jpeg)
+
 ## Future Scope or Planned Features:
 
 - Support for additional grading scales.
